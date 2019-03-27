@@ -1,0 +1,9 @@
+{
+        "input":{
+                "tenant-name":"vtn1", 
+                "bridge-name":"vbr1", 
+                "interface-name":"if2", 
+                "node":"openflow:3", 
+                "port-name":"s3-eth1"
+        }
+}

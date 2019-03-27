@@ -1,0 +1,11 @@
+{
+	"input":{
+		"tenant-name":"vtn1",
+		"mode":"DETAIL",
+		"node":"openflow:1",
+		"data-flow-port":{
+			"port-id":"1",
+			"port-name":"s1-eth1"
+		}
+	}
+}
